@@ -7,7 +7,7 @@ module.exports = {
             createComponent } = toolbox;
         const name = parameters.first;
 
-        await createComponent('src/components/pages', name)
+        await createComponent('src/pages', name)
     }
 
 }
