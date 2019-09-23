@@ -9,7 +9,7 @@ or yarn:
 <pre>$ yarn global add omni-marcelxsilva </pre>
 
 
-For default this Cli generate pages and components in folder <code>src/component/pages </code> and <code>src/components </code>
+For default this Cli generate pages and components in folder <code>src/pages </code> and <code>src/components </code>
 
 For generate components:
 <pre> omni generate:component < NAME COMPONENT> </pre>
